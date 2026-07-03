@@ -23,6 +23,6 @@ This project was built to practice JavaScript DOM manipulation by creating and m
 
 ## Live Demo
 
-Coming soon...
+http://javascript-dom-westablog-project.netlify.app
 
 
